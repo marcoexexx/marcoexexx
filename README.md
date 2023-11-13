@@ -2,7 +2,7 @@
 
 ### A bit about me
 
-I'm deeply passionate about Rust, Python, and TypeScript, and I'm always immersed in the world of coding. Beyond that, I appreciate the art of crafting delicious dishes just as much as crafting code, and I love to expand my knowledge and skills through continuous learning.
+I have a strong love for Rust, Python, and TypeScript, and I'm constantly diving into the coding universe. Besides that, I adore creating scrumptious dishes as passionately as writing code 🥗. My enthusiasm for learning knows no bounds! 🚀
 
 
 ![dancing_rust](./dancing-rust.gif)
