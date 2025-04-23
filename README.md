@@ -1,7 +1,7 @@
 ### Heya! 👋
 
 ### A bit about me
-Passionate about Rust, Python, and TypeScript. Love cooking and endless learning! 🚀
+Love cooking and endless learning! 🚀
 
 ![dancing_rust](./dancing-rust.gif)
 
